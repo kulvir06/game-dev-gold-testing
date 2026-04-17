@@ -1,0 +1,17 @@
+# ==== Unity Generated ====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# ==== Visual Studio / Rider ====
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.slnx
+
+# ==== OS ====
+.DS_Store
